@@ -1,5 +1,5 @@
 # Selection-Sort-Projesi
-Veri Yapıları ve Algoritmaları proje ödevi 1
+Veri Yapıları ve Algoritmalar proje ödevi 1
 [Patika.dev](www.patika.dev)
 
 ## Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
